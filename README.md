@@ -1,1 +1,1 @@
-02. numbers-guessing-game
+02.numbers-guessing-game
